@@ -11,6 +11,6 @@
 
 ## Dashboard
 
-Website link [Speacial Design](https://muhammedalsin.github.io/dashboard/).
+Website link [Dashboard ](https://muhammedalsin.github.io/dashboard/).
 
 
